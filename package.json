@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fusionflare/package-demo/issues"
   },
-  "homepage": "https://github.com/fusionflare/package-demo#readme"
+  "homepage": "https://github.com/fusionflare/package-demo#readme",
+  "publishConfig": {
+    "@fusionflare:registry": "https://npm.pkg.github.com"
+  }
 }
